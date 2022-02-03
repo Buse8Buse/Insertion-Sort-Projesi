@@ -33,12 +33,12 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 [16] [21,11], [8,12] [22]
 
 
- ↓    ↓    ↓    ↓   ↓    ↓
+	     ↓
  
 [16],[21],[11],[8],[12],[22]
 
 
-  ↓     ↓      ↓     ↓
+             ↓
   
 [16] [11,21] [8,12] [22]
 
