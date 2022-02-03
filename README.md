@@ -1,5 +1,5 @@
-# Insertion-Sort-Projesi
-Patika Dev Insertion Sort Projesi
+# Insertion-Sort, Merge Sort ve Binary Search Tree Projeleri
+Patika Dev Projesi
 
 # [22,27,16,2,18,6] -> Insertion Sort
 
@@ -21,3 +21,21 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 2)[2,3,4,8,7,9,5,15,6]
 3)[2,3,4,5,7,9,8,15,6]
 4)[2,3,4,5,6,9,8,15,7]
+
+# [16,21,11,8,12,22] -> Merge Sort
+
+-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+[16,21,11], [8,12,22]
+    ↓               ↓
+[16] [21,11], [8,12] [22]
+ ↓    ↓     ↓   ↓    ↓    ↓
+[16],[21],[11],[8],[12],[22]
+  ↓     ↓      ↓     ↓
+[16] [11,21] [8,12] [22]
+     ↓          ↓ 
+[11,16,21], [8,12,22]
+	         ↓
+  [8,11,12,16,21,22 ]
+  
+# 
